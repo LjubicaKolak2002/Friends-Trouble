@@ -1,2 +1,3 @@
 # Friends-Trouble
-👉 [Problem Statement](https://community.topcoder.com/stat?c=problem_statement&pm=6721)
+👉 Link to the problem : https://community.topcoder.com/stat?c=problem_statement&pm=6721
+
